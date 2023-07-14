@@ -10,5 +10,7 @@ description-file = "README.md"
 home-page = "https://github.com/IslasGECI/platform"
 module = "platform"
 requires = [
+	"typer",
+	"typer-cli",
 ]
 requires-python=">=3.9"
